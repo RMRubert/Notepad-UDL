@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1">.</Keywords>
             <Keywords name="Numbers, suffix2">.</Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">&gt; &lt;/ &lt; - * |</Keywords>
+            <Keywords name="Operators1">&gt; &lt;/ &lt; - * | :</Keywords>
             <Keywords name="Operators2">+ *</Keywords>
             <Keywords name="Folders in code1, open">```</Keywords>
             <Keywords name="Folders in code1, middle">((EOL))</Keywords>
@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open">&lt;!--</Keywords>
             <Keywords name="Folders in comment, middle">((EOL))</Keywords>
             <Keywords name="Folders in comment, close">--&gt;</Keywords>
-            <Keywords name="Keywords1">layout: title: permalink: category: tag:</Keywords>
+            <Keywords name="Keywords1">layout: title: permalink: category: tags:</Keywords>
             <Keywords name="Keywords2">http:// (http:// https:// (https:// mailto: (mailto: ftp:// (ftp:// ftps:// (ftps:// (/ /</Keywords>
             <Keywords name="Keywords3"></Keywords>
             <Keywords name="Keywords4"></Keywords>
@@ -32,7 +32,7 @@
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
-            <Keywords name="Delimiters">00```` 00``` 00` 01((EOL)) 02```` 02``` 02` 03== 03++ 03~~ 03~ 04 05== 05++ 05~~ 05((~ EOL)) 06[^ 06*[ 06((^[ ])) 06![ 06![ 06[ 06[ 07 08((]: ])) 08]: 08] 08) 08] 08) 08] 09^ 10 11((^ EOL)) 12--- 12___ 12*** 13 14((EOL)) 14((EOL)) 14((EOL)) 15** 15__ 16 17** 17__ 18# 19# 20((EOL)) 21_ 21* 22 23_ 23((* EOL))</Keywords>
+            <Keywords name="Delimiters">00```` 00``` 00` 01((EOL)) 02```` 02``` 02` 03== 03++ 03~~ 03~ 04 05== 05++ 05~~ 05((~ EOL)) 06{: 06[ 06(/ 06![ 06(http 07 08} 08] 08) 08] 08) 09^ 10 11((^ EOL)) 12___ 12*** 13 14((EOL)) 14((EOL)) 15** 15__ 16 17** 17__ 18# 19# 20((EOL)) 21_ 21* 22 23_ 23((* EOL))</Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle name="DEFAULT" fgColor="839496" bgColor="002B36" fontName="" fontStyle="0" nesting="0" />
@@ -41,7 +41,7 @@
             <WordsStyle name="NUMBERS" fgColor="2AA198" bgColor="002B36" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS1" fgColor="6C71C4" bgColor="002B36" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS2" fgColor="B58900" bgColor="002B36" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS3" fgColor="93A1A1" bgColor="002B36" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="FFFF00" bgColor="002B36" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="93A1A1" bgColor="002B36" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="93A1A1" bgColor="002B36" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS6" fgColor="93A1A1" bgColor="002B36" fontName="" fontStyle="0" nesting="0" />
